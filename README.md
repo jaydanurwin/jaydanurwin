@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My Name is Jaydan Urwin. Check out my [YouTube Channel](https://youtube.jaydanurwin.com) and my [website](https://jaydanurwin.com)
+
 <!--
 **jaydanurwin/jaydanurwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
