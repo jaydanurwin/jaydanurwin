@@ -1,6 +1,10 @@
-### Hi there 👋
+# About Me
 
-My Name is Jaydan Urwin. Check out my [YouTube Channel](https://youtube.jaydanurwin.com) and my [website](https://jaydanurwin.com)
+Hi there, I'm Jaydan Urwin 👋
+
+I'm a designer, developer, and content creator from Boise, Idaho (yes, Idaho the potato state 🥔). I was born and raised in Idaho so I guess you call me a true spud. I've been doing web design and dev for over 5 years now and started out just by hacking Squarespace templates. But I found pretty quickly that I am too particular and prefer to build it from scratch. I've tried several tools over the years but have since landed on [Astro](https://astro.build) as my "framework" of choice. I don't just build websites and web apps though. For about a year now I've really been putting my spare time into learning [Flutter](https://flutter.dev), a cross platform development tool from Google.
+
+I enjoy sharing what I know on my [YouTube](https://youtube.jaydanurwin.com) channel and my 📝[Blog](/blog).
 
 <!--
 **jaydanurwin/jaydanurwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
