@@ -6,6 +6,16 @@ I'm a designer, developer, and content creator from Boise, Idaho (yes, Idaho the
 
 I enjoy sharing what I know on my [YouTube](https://youtube.jaydanurwin.com) channel and my 📝[Blog](/blog).
 
+--- 
+
+### 📺 Latest YouTube Videos 
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END --> 
+
+➡️ [View All](https://youtube.com/jaydanurwin) 
+
+---
+
 <!--
 **jaydanurwin/jaydanurwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
