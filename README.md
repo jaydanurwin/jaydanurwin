@@ -4,7 +4,7 @@ Hi there, I'm Jaydan Urwin 👋
 
 I'm a designer, developer, and content creator from Boise, Idaho (yes, Idaho the potato state 🥔).
 
-I enjoy sharing what I know on my [YouTube](https://youtube.jaydanurwin.com) channel and my 📝[Blog](/blog).
+I enjoy sharing what I know on my [YouTube](https://youtube.jaydanurwin.com) channel and my 📝[Blog](https://jaydanurwin/blog).
 
 --- 
 
