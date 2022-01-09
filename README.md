@@ -10,7 +10,7 @@ I enjoy sharing what I know on my [YouTube](https://youtube.jaydanurwin.com) cha
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
-- [Crash Course on Astro, The Best Static Site Framework For 2022](https://www.youtube.com/watch?v=cbYr75_R15M)
+- [Astro Crash Course #1 - Layouts, Astro Components, Styles, &amp; Pages](https://www.youtube.com/watch?v=cbYr75_R15M)
 - [Adding a Click to Copy Code Block to the Astro &amp; Sanity Starter](https://www.youtube.com/watch?v=WVRLCaRfg8E)
 - [Updating my Astro + Sanity Minimal Starter! &lpar;Sanity Block Content To React&rpar;](https://www.youtube.com/watch?v=dB7CmFLQiSs)
 - [Easily Add a Responsive Navbar To Your Website](https://www.youtube.com/watch?v=0Q0VcdDKKSI)
