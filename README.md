@@ -10,11 +10,11 @@ I enjoy sharing what I know on my [YouTube](https://youtube.jaydanurwin.com) cha
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Eleventy Crash Course #2 - Using Images, Global CSS Styles, Page Specific CSS Styles](https://www.youtube.com/watch?v=WTVv5IbPN1k)
 - [Eleventy Crash Course #1 - Setting up a new 11ty project, creating Layouts, using Nunjucks templates](https://www.youtube.com/watch?v=uzM5lETc6Sg)
 - [Moving the Astro + Sanity Starter to GROQ](https://www.youtube.com/watch?v=f0hBC_Df3vc)
 - [Astro Crash Course #4 - How to Add Categories/Tags To Blog Posts](https://www.youtube.com/watch?v=m50ITGl8tPI)
 - [Astro Crash Course #3 - API Data Fetching, Components in Markdown, Pagination, RSS, &amp; Hosting](https://www.youtube.com/watch?v=9wXdv7rHW2w)
-- [Astro Crash Course #2 - Images, React and Svelte Components, &amp; Blog Posts](https://www.youtube.com/watch?v=xcDUpe1NfCQ)
 <!-- YOUTUBE:END --> 
 
 ➡️ [View All](https://youtube.com/jaydanurwin) 
