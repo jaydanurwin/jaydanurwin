@@ -10,11 +10,11 @@ I enjoy sharing what I know on my [YouTube](https://youtube.jaydanurwin.com) cha
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Eleventy Crash Course #5 - Blog Posts &amp; Blog Index Page with Collections](https://www.youtube.com/watch?v=2maHivd3pvA)
 - [Odyssey Astro Theme &amp; We&#39;re Rebranding!!](https://www.youtube.com/watch?v=7B74jDONNdk)
 - [Eleventy Crash Course #4 - The 11ty Data Cascade &amp; Fetching Data From An API](https://www.youtube.com/watch?v=4Uv8C1wco6U)
 - [Eleventy Crash Course #3 - Creating Functional Components with Shortcodes](https://www.youtube.com/watch?v=ty0_xOxeRCU)
 - [Eleventy Crash Course #2 - Using Images, Global CSS Styles, Page Specific CSS Styles](https://www.youtube.com/watch?v=WTVv5IbPN1k)
-- [Eleventy Crash Course #1 - Setting up a new 11ty project, creating Layouts, using Nunjucks templates](https://www.youtube.com/watch?v=uzM5lETc6Sg)
 <!-- YOUTUBE:END --> 
 
 ➡️ [View All](https://youtube.com/jaydanurwin) 
