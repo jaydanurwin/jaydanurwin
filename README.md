@@ -10,11 +10,11 @@ I'm the founder of [Little Sticks](https://littlesticks.dev), a company with a p
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Let&#39;s Create a Splashy Splash Page with Astro 💦](https://www.youtube.com/watch?v=o58kSpPMuuI)
 - [Astro Crash Course #5 -  Upgrading to Astro v1.0, Using Astro&#39;s Image Integration](https://www.youtube.com/watch?v=ZWcan5m2dP4)
 - [How To Create a Link in Bio Page for Instagram with Astro](https://www.youtube.com/watch?v=elKCpg7TerA)
 - [Eleventy Crash Course #6 - Adding Tags/Categories to Blog Posts](https://www.youtube.com/watch?v=kRQr9W7WcVc)
 - [Eleventy Crash Course #5 - Blog Posts &amp; Blog Index Page with Collections](https://www.youtube.com/watch?v=2maHivd3pvA)
-- [Odyssey Astro Theme &amp; We&#39;re Rebranding!!](https://www.youtube.com/watch?v=7B74jDONNdk)
 <!-- YOUTUBE:END --> 
 
 ➡️ [View All](https://youtube.com/jaydanurwin) 
