@@ -10,11 +10,11 @@ I'm the founder of [Little Sticks](https://littlesticks.dev), a design and devel
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Stop Fighting Your Footer! Use the Pancake Stack 🥞](https://www.youtube.com/watch?v=avksPtKUUes)
 - [Integrate Astro and Sanity with our new Astro Integration! 🚀](https://www.youtube.com/watch?v=NM0FPzVdeUw)
 - [Let&#39;s Create a Splashy Splash Page with Astro 💦](https://www.youtube.com/watch?v=o58kSpPMuuI)
 - [Astro Crash Course #5 -  Upgrading to Astro v1.0, Using Astro&#39;s Image Integration](https://www.youtube.com/watch?v=ZWcan5m2dP4)
 - [How To Create a Link in Bio Page for Instagram with Astro](https://www.youtube.com/watch?v=elKCpg7TerA)
-- [Eleventy Crash Course #6 - Adding Tags/Categories to Blog Posts](https://www.youtube.com/watch?v=kRQr9W7WcVc)
 <!-- YOUTUBE:END --> 
 
 ➡️ [View All](https://youtube.com/jaydanurwin) 
