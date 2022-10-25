@@ -10,11 +10,11 @@ I'm the founder of [Little Sticks](https://littlesticks.dev), a design and devel
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Netlify Makes Forms SUPER Easy. 🤯](https://www.youtube.com/watch?v=HFMfn_XBdyo)
 - [Make a Trendy Spinning Text Animation with Figma &amp; CSS](https://www.youtube.com/watch?v=eNQDVtdHi9I)
 - [Responsive YT Embeds THE RIGHT WAY](https://www.youtube.com/watch?v=oMB3h7E6d_M)
 - [Stop Fighting Your Footer! Use the Pancake Stack 🥞](https://www.youtube.com/watch?v=avksPtKUUes)
 - [Integrate Astro and Sanity with our new Astro Integration! 🚀](https://www.youtube.com/watch?v=NM0FPzVdeUw)
-- [Let&#39;s Create a Splashy Splash Page with Astro 💦](https://www.youtube.com/watch?v=o58kSpPMuuI)
 <!-- YOUTUBE:END --> 
 
 ➡️ [View All](https://youtube.com/jaydanurwin) 
