@@ -10,7 +10,7 @@ I'm the founder of [Little Sticks](https://littlesticks.dev), a design and devel
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
-- [Dark Theme Favicons are Easy 🌞🌚](https://www.youtube.com/watch?v=bdUvgVPk8PQ)
+- [Dark Theme Favicons with CSS ✨](https://www.youtube.com/watch?v=bdUvgVPk8PQ)
 - [Formspark Is A Hidden Gem 💎](https://www.youtube.com/watch?v=bfbuZbCiNWo)
 - [Add Copy To Clipboard Buttons To Code Blocks](https://www.youtube.com/watch?v=_0eBQREJTDo)
 - [Netlify Makes Forms SUPER Easy. 🤯](https://www.youtube.com/watch?v=HFMfn_XBdyo)
