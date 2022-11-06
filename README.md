@@ -10,11 +10,11 @@ I'm the founder of [Little Sticks](https://littlesticks.dev), a design and devel
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
-- [Dark Theme Favicons with CSS ✨](https://www.youtube.com/watch?v=bdUvgVPk8PQ)
+- [Automatic Dark Theme Favicons ✨ &lpar;Method 2&rpar;](https://www.youtube.com/watch?v=HqfsuSmiVOY)
+- [Dark Theme Favicons with CSS 🎨](https://www.youtube.com/watch?v=bdUvgVPk8PQ)
 - [Formspark Is A Hidden Gem 💎](https://www.youtube.com/watch?v=bfbuZbCiNWo)
 - [Add Copy To Clipboard Buttons To Code Blocks](https://www.youtube.com/watch?v=_0eBQREJTDo)
 - [Netlify Makes Forms SUPER Easy. 🤯](https://www.youtube.com/watch?v=HFMfn_XBdyo)
-- [Make a Trendy Spinning Text Animation with Figma &amp; CSS](https://www.youtube.com/watch?v=eNQDVtdHi9I)
 <!-- YOUTUBE:END --> 
 
 ➡️ [View All](https://youtube.com/jaydanurwin) 
