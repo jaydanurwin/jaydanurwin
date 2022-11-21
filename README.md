@@ -10,7 +10,7 @@ I'm the founder of [Little Sticks](https://littlesticks.dev), a design and devel
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
-- [Deno Crash Course Part 1 - Intro, Install, &amp; A Simple CLI](https://www.youtube.com/watch?v=GtpyEGDtMOc)
+- [Deno Crash Course #1 - Intro, Install, &amp; A Simple CLI](https://www.youtube.com/watch?v=GtpyEGDtMOc)
 - [Custom Highlight Selection Color with CSS 🎨](https://www.youtube.com/watch?v=kfnL5pnJhfI)
 - [Automatic Dark Theme Favicons ✨ &lpar;Method 2&rpar;](https://www.youtube.com/watch?v=HqfsuSmiVOY)
 - [Dark Theme Favicons with CSS 🎨](https://www.youtube.com/watch?v=bdUvgVPk8PQ)
