@@ -10,11 +10,11 @@ I'm the founder of [Little Sticks](https://littlesticks.dev), a design and devel
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Deno Crash Course #2 - Reading, Writing, Renaming, &amp; Deleting Files](https://www.youtube.com/watch?v=bbUkaPKoXw8)
+- [Stop Making Your Own Modals! 🛑](https://www.youtube.com/watch?v=2QC2xNxKQso)
 - [Deno Crash Course #1 - Intro, Install, &amp; A Simple CLI](https://www.youtube.com/watch?v=GtpyEGDtMOc)
 - [Custom Highlight Selection Color with CSS 🎨](https://www.youtube.com/watch?v=kfnL5pnJhfI)
 - [Automatic Dark Theme Favicons ✨ &lpar;Method 2&rpar;](https://www.youtube.com/watch?v=HqfsuSmiVOY)
-- [Dark Theme Favicons with CSS 🎨](https://www.youtube.com/watch?v=bdUvgVPk8PQ)
-- [Formspark Is A Hidden Gem 💎](https://www.youtube.com/watch?v=bfbuZbCiNWo)
 <!-- YOUTUBE:END --> 
 
 ➡️ [View All](https://youtube.com/jaydanurwin) 
