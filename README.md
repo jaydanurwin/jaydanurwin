@@ -4,7 +4,7 @@ Hi there, I'm Jaydan Urwin 👋
 
 I'm a designer, developer, and content creator from Boise, Idaho (yes, Idaho the potato state 🥔).
 
-I'm the founder of [Little Sticks](https://littlesticks.dev), a design and development learning platform.
+I'm the founder of [White Pine](https://whitepine.studio), a design and development studio building products on the web.
 
 --- 
 
