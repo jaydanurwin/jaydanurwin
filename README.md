@@ -17,7 +17,7 @@ I'm the founder of [White Pine](https://whitepine.studio), a design and developm
 - [Deno Crash Course #1 - Intro, Install, &amp; A Simple CLI](https://www.youtube.com/watch?v=GtpyEGDtMOc)
 <!-- YOUTUBE:END --> 
 
-➡️ [View All](https://youtube.com/jaydanurwin) 
+➡️ [View All](https://youtube.com/@LittleSticks) 
 
 ---
 
