@@ -10,11 +10,11 @@ I'm the founder of [White Pine](https://whitepine.studio), a design and developm
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Give Your Copyright an Upgrade! 🎉](https://www.youtube.com/watch?v=8nDudmWLS8A)
 - [Deno Crash Course #6 - Building a Frontend with Vite &amp; Deno](https://www.youtube.com/watch?v=gr6ORt1YtzQ)
 - [Stop Downloading Eyedropper Tools 🎨💦](https://www.youtube.com/watch?v=exn4_2vVoLM)
 - [Deno Crash Course #5 - Integrating Deno with Firebase Firestore](https://www.youtube.com/watch?v=cgN77uI8Vuo)
 - [Deno Crash Course #4 - Building a REST API with Oak](https://www.youtube.com/watch?v=nqSeL9rzyB4)
-- [Deno Crash Course #3 - Working with Deno Modules, Third Party Modules, &amp; NPM Modules](https://www.youtube.com/watch?v=RcroQDLwTLg)
 <!-- YOUTUBE:END --> 
 
 ➡️ [View All](https://youtube.com/@LittleSticks) 
