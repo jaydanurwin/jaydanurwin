@@ -10,11 +10,11 @@ I'm the founder of [White Pine](https://whitepine.studio), a design and developm
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [It&#39;s not that I need #coffee ...](https://www.youtube.com/watch?v=hQVlseSb3Eo)
 - [I&#39;m sorry...I messed up with this channel](https://www.youtube.com/watch?v=6KM1StQnZnM)
 - [Sanity Crash Course #2 - Global Site Settings, Customizing Sanity Desk, Global SEO](https://www.youtube.com/watch?v=M_C2IN_ASkA)
 - [Sanity Crash Course #1 - Setting Up a Sanity v3  &amp; Astro 2.0 Project From Scratch](https://www.youtube.com/watch?v=6aQ-vD2vRyY)
 - [The Ultimate Hidden Chrome Dev Tool 🧐](https://www.youtube.com/watch?v=j5XhrK6YvFk)
-- [My Development Predictions for 2023](https://www.youtube.com/watch?v=trBkgkafN3U)
 <!-- YOUTUBE:END --> 
 
 ➡️ [View All](https://youtube.com/@LittleSticks) 
