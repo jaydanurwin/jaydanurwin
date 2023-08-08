@@ -10,11 +10,11 @@ I'm the founder of [White Pine](https://whitepine.studio), a design and developm
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [At least try it first #coffee #pourovercoffee](https://www.youtube.com/watch?v=mSm8b5srpP8)
 - [This quote hit home for me](https://www.youtube.com/watch?v=G7VpIqac28w)
 - [Flash Brew ⚡ #coffee](https://www.youtube.com/watch?v=jUDNESCcGXU)
 - [My love language is definitely #coffee](https://www.youtube.com/watch?v=Oi4i6NWP-9Y)
 - [It&#39;s not that I need #coffee ...](https://www.youtube.com/watch?v=hQVlseSb3Eo)
-- [I&#39;m sorry...I messed up with this channel](https://www.youtube.com/watch?v=6KM1StQnZnM)
 <!-- YOUTUBE:END --> 
 
 ➡️ [View All](https://youtube.com/@LittleSticks) 
