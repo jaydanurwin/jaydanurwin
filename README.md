@@ -10,11 +10,11 @@ I'm the founder of [White Pine](https://whitepine.studio), a design and developm
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Check out my drip 😅 #coffee #espresso](https://www.youtube.com/watch?v=0gE6Ta5Zy40)
 - [Flash Brew #icedcoffee this morning](https://www.youtube.com/watch?v=FuAA3Xr67-g)
 - [An Iced Long Black #coffee #icedcoffee](https://www.youtube.com/watch?v=caVrrUHaUwI)
 - [Sunday Iced Coffee 🌞  #icedcoffee](https://www.youtube.com/watch?v=Xk2i5nKVIkk)
 - [That espresso tonic feeling 🎷#coffee](https://www.youtube.com/watch?v=QIpwt8UO7nI)
-- [At least try it first #coffee #pourovercoffee](https://www.youtube.com/watch?v=mSm8b5srpP8)
 <!-- YOUTUBE:END --> 
 
 ➡️ [View All](https://youtube.com/@LittleSticks) 
