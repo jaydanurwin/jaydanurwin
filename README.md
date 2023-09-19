@@ -10,11 +10,11 @@ I'm the founder of [White Pine](https://whitepine.studio), a design and developm
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Iced Cortado 🧊☕ #coffee #espresso](https://www.youtube.com/watch?v=CDozMYK5I7w)
+- [Cold Foam Cold Brew 🥶 #coffee #coldbrew](https://www.youtube.com/watch?v=ki_nLdQ34QU)
 - [Dalgona Espresso #coffee #espresso](https://www.youtube.com/watch?v=6p-t1YelHzg)
 - [Freddo Cappuccino 👌🏼 #coffee](https://www.youtube.com/watch?v=bfWsLtYPkyk)
 - [9.14.23 #coldbrew #coffee](https://www.youtube.com/watch?v=NIGwYbjJZNk)
-- [9.11.23 - Slow Down #coffee #pourover](https://www.youtube.com/watch?v=FWWl4tnF0jQ)
-- [9.8.23 #pourover #coffee](https://www.youtube.com/watch?v=hHY57Zv3qGc)
 <!-- YOUTUBE:END --> 
 
 ➡️ [View All](https://youtube.com/@LittleSticks) 
