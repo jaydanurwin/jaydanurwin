@@ -10,8 +10,8 @@ I'm the founder of [White Pine](https://whitepine.studio), a design and developm
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Starting the day with a pour over #coffee  #pourover](https://www.youtube.com/watch?v=Fzgg4r4-Ps8)
 - [Cold Brew Shot anyone? 🥃 #coffee #coldbrew](https://www.youtube.com/watch?v=FBKDZ3CtUN0)
-- [Thank you 🙏🏼 and Hello 👋🏼](https://www.youtube.com/watch?v=sPekKxha6gM)
 - [Dalgona Coffee 😋 #coffee](https://www.youtube.com/watch?v=igDnOSctFfk)
 - [Coke and Espresso 🤔 #coffee #espresso](https://www.youtube.com/watch?v=WRlNhTFd-dI)
 - [Cold Brew Sunrise 🌄 #coffee #coldbrew](https://www.youtube.com/watch?v=xO14OMLQbGo)
