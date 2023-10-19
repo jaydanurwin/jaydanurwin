@@ -10,11 +10,11 @@ I'm the founder of [White Pine](https://whitepine.studio), a design and developm
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Morning Aeropress #coffee](https://www.youtube.com/watch?v=GgyF0eE-ens)
 - [Extractions by Onyx Coffee Labs 🙌🏼 #coffee](https://www.youtube.com/watch?v=AEwTDKDLOcI)
 - [Iced Vanilla Oat Milk Cortado #coffee #coldbrewcoffee](https://www.youtube.com/watch?v=N5Q665csmKY)
 - [Fresca &amp; Espresso 🤯 #coffee #espresso](https://www.youtube.com/watch?v=-BqLF2A1N6E)
 - [Starting the day with a pour over #coffee  #pourover](https://www.youtube.com/watch?v=Fzgg4r4-Ps8)
-- [Cold Brew Shot anyone? 🥃 #coffee #coldbrew](https://www.youtube.com/watch?v=FBKDZ3CtUN0)
 <!-- YOUTUBE:END --> 
 
 ➡️ [View All](https://youtube.com/@LittleSticks) 
