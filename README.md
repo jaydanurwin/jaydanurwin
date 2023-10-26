@@ -10,11 +10,11 @@ I'm the founder of [White Pine](https://whitepine.studio), a design and developm
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Mahlkonig E65S Grind by Weight Grinder 🔥 #coffee](https://www.youtube.com/watch?v=PzbOI596Lk8)
 - [Another Pour Over from the trailer #coffee #pourover](https://www.youtube.com/watch?v=37wCD-HKKlw)
 - [Morning Aeropress #coffee](https://www.youtube.com/watch?v=GgyF0eE-ens)
 - [Extractions by Onyx Coffee Labs 🙌🏼 #coffee](https://www.youtube.com/watch?v=AEwTDKDLOcI)
 - [Iced Vanilla Oat Milk Cortado #coffee #coldbrewcoffee](https://www.youtube.com/watch?v=N5Q665csmKY)
-- [Fresca &amp; Espresso 🤯 #coffee #espresso](https://www.youtube.com/watch?v=-BqLF2A1N6E)
 <!-- YOUTUBE:END --> 
 
 ➡️ [View All](https://youtube.com/@LittleSticks) 
