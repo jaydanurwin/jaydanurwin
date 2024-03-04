@@ -10,11 +10,11 @@ I'm the founder of [White Pine](https://whitepine.studio), a design and developm
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [I&#39;m still here! Life Update 2024 👋🏼](https://www.youtube.com/watch?v=9AcAWs6KX2g)
 - [A cortado to start the day #coffee #espresso](https://www.youtube.com/watch?v=6VauKoR5z1U)
 - [First Pull of the Day #coffee #espresso](https://www.youtube.com/watch?v=6W-G9T6jaFE)
 - [Mahlkonig E65S Grind by Weight Grinder 🔥 #coffee](https://www.youtube.com/watch?v=PzbOI596Lk8)
 - [Another Pour Over from the trailer #coffee #pourover](https://www.youtube.com/watch?v=37wCD-HKKlw)
-- [Morning Aeropress #coffee](https://www.youtube.com/watch?v=GgyF0eE-ens)
 <!-- YOUTUBE:END --> 
 
 ➡️ [View All](https://youtube.com/@LittleSticks) 
