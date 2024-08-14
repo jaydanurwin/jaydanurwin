@@ -2,9 +2,9 @@
 
 Hi there, I'm Jaydan Urwin 👋
 
-I'm a designer, developer, and content creator from Boise, Idaho (yes, Idaho the potato state 🥔).
+I'm a designer, developer, and solopreneur from Boise, Idaho (yes, Idaho the potato state 🥔).
 
-I'm the founder of [White Pine](https://whitepine.studio), a design and development studio building products on the web.
+I'm the founder of [Treefarm Studio](https://treefarm.studio), a design and development studio building products on the web.
 
 --- 
 
@@ -17,7 +17,7 @@ I'm the founder of [White Pine](https://whitepine.studio), a design and developm
 - [Mahlkonig E65S Grind by Weight Grinder 🔥 #coffee](https://www.youtube.com/watch?v=PzbOI596Lk8)
 <!-- YOUTUBE:END --> 
 
-➡️ [View All](https://youtube.com/@LittleSticks) 
+➡️ [View All](https://youtube.com/@JaydanUrwin) 
 
 ---
 
