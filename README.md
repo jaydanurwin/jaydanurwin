@@ -10,11 +10,11 @@ I'm the founder of [Treefarm Studio](https://treefarm.studio), a design and deve
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [How to Add Gemini 1.5 Pro AI Models to Cursor AI](https://www.youtube.com/watch?v=EGLL8w1JFqE)
 - [Introducing I ate - AI Food Calorie Tracking - Gemini Competition App](https://www.youtube.com/watch?v=mgVl9ktza-I)
 - [I&#39;m still here! Life Update 2024 👋🏼](https://www.youtube.com/watch?v=9AcAWs6KX2g)
 - [A cortado to start the day #coffee #espresso](https://www.youtube.com/watch?v=6VauKoR5z1U)
 - [First Pull of the Day #coffee #espresso](https://www.youtube.com/watch?v=6W-G9T6jaFE)
-- [Mahlkonig E65S Grind by Weight Grinder 🔥 #coffee](https://www.youtube.com/watch?v=PzbOI596Lk8)
 <!-- YOUTUBE:END --> 
 
 ➡️ [View All](https://youtube.com/@JaydanUrwin) 
