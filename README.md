@@ -4,7 +4,7 @@ Hi there, I'm Jaydan Urwin 👋
 
 I'm a designer, developer, and solopreneur from Boise, Idaho (yes, Idaho the potato state 🥔).
 
-I'm the founder of [Treefarm Studio](https://treefarm.studio), a design and development studio building products on the web.
+I'm the founder of [Treefarm Studio](https://treefarm.studio), a design and development studio building products.
 
 --- 
 
