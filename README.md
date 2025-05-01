@@ -10,11 +10,11 @@ I'm the founder of [Treefarm Studio](https://treefarm.studio), a design and deve
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Sapling Crash Course #7 - Breaking Down Sapling Islands Architecture](https://www.youtube.com/watch?v=5xbjHTZBV_c)
 - [Sapling Crash Course #6 - Switching to Hono and JSX 🔥](https://www.youtube.com/watch?v=yFnrpXmP1l4)
 - [Sapling Crash Course #5 - Adding Syntax Highlighting and Copy Code Buttons](https://www.youtube.com/watch?v=5QqNWiHXRUE)
 - [Sapling Crash Course #4 - Optimizing images with the Sapling Image Package](https://www.youtube.com/watch?v=fUr13A_OAWM)
 - [Sapling Crash Course #3 - Starting the Blog, Rendering Markdown to HTML](https://www.youtube.com/watch?v=7tIMnzo6fXI)
-- [Sapling Crash Course #2 - Setting up Cursor, Windsurf, or VS Code for Sapling](https://www.youtube.com/watch?v=wuaM9JpFtMg)
 <!-- YOUTUBE:END --> 
 
 ➡️ [View All](https://youtube.com/@JaydanUrwin) 
