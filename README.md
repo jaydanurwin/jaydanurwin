@@ -10,11 +10,11 @@ I'm the founder of [Treefarm Studio](https://treefarm.studio), a design and deve
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [It&#39;s Saturday. Go Rest. ✌️](https://www.youtube.com/watch?v=QyrdDdwgTV8)
 - [Back to work everyone! 🧑‍💻](https://www.youtube.com/shorts/wEkZDaiR9TQ)
 - [I guess it&#39;s pool day today ⛱️](https://www.youtube.com/shorts/CBcno90UBXY)
 - [Announcing Plately 2.0 🎉](https://www.youtube.com/watch?v=8u8_5hN8gXg)
 - [Sapling Crash Course #8 - Designing and Deploying our Blog](https://www.youtube.com/watch?v=5Em1G7by6rs)
-- [Sapling Crash Course #7 - Breaking Down Sapling Islands Architecture](https://www.youtube.com/watch?v=5xbjHTZBV_c)
 <!-- YOUTUBE:END --> 
 
 ➡️ [View All](https://youtube.com/@JaydanUrwin) 
