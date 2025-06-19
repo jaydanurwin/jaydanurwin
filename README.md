@@ -10,11 +10,11 @@ I'm the founder of [Treefarm Studio](https://treefarm.studio), a design and deve
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Thoughts on Vibe Coding as a Developer #vibecoding](https://www.youtube.com/watch?v=y1LV7hZjePo)
+- [Onto the next chapter! ☕️](https://www.youtube.com/watch?v=VcBUf-sHSSc)
 - [Check Out Astro for App Store Optimization](https://www.youtube.com/shorts/E2mkIm5DlF8)
 - [Happy Father&#39;s Day Dads ✌️](https://www.youtube.com/watch?v=0GI-VIdqIwM)
 - [It&#39;s Saturday. Go Rest. ✌️](https://www.youtube.com/watch?v=QyrdDdwgTV8)
-- [Back to work everyone! 🧑‍💻](https://www.youtube.com/shorts/wEkZDaiR9TQ)
-- [I guess it&#39;s pool day today ⛱️](https://www.youtube.com/shorts/CBcno90UBXY)
 <!-- YOUTUBE:END --> 
 
 ➡️ [View All](https://youtube.com/@JaydanUrwin) 
