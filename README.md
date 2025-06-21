@@ -10,11 +10,11 @@ I'm the founder of [Treefarm Studio](https://treefarm.studio), a design and deve
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
-- [Marketing Apps is Difficult But Fun!](https://www.youtube.com/watch?v=pzuBN-dFbAs)
-- [Thoughts on Vibe Coding as a Developer #vibecoding](https://www.youtube.com/watch?v=y1LV7hZjePo)
-- [Onto the next chapter! ☕️](https://www.youtube.com/watch?v=VcBUf-sHSSc)
+- [Rejoice Cursor users! We can go crazy! 🍾 #vibecoding  #cursorai](https://www.youtube.com/shorts/mDXw4iB4Yus)
+- [Marketing Apps is Difficult But Fun!](https://www.youtube.com/shorts/pzuBN-dFbAs)
+- [Thoughts on Vibe Coding as a Developer #vibecoding](https://www.youtube.com/shorts/y1LV7hZjePo)
+- [Onto the next chapter! ☕️](https://www.youtube.com/shorts/VcBUf-sHSSc)
 - [Check Out Astro for App Store Optimization](https://www.youtube.com/shorts/E2mkIm5DlF8)
-- [Happy Father&#39;s Day Dads ✌️](https://www.youtube.com/watch?v=0GI-VIdqIwM)
 <!-- YOUTUBE:END --> 
 
 ➡️ [View All](https://youtube.com/@JaydanUrwin) 
