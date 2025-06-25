@@ -10,11 +10,11 @@ I'm the founder of [Treefarm Studio](https://treefarm.studio), a design and deve
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [One of the most underrated AI tools](https://www.youtube.com/shorts/D9cKKd8lCbs)
+- [Some Good News on a Monday](https://www.youtube.com/shorts/rCokwtl7mlk)
 - [The Smartphone Zombie Apocalypse 🧟‍♂️](https://www.youtube.com/shorts/dcAVzuDV4Bo)
 - [Finally AI video from Midjourney 🎥](https://www.youtube.com/shorts/-n3vc6uWIv4)
 - [Rejoice Cursor users! We can go crazy! 🍾 #vibecoding  #cursorai](https://www.youtube.com/shorts/mDXw4iB4Yus)
-- [Marketing Apps is Difficult But Fun!](https://www.youtube.com/shorts/pzuBN-dFbAs)
-- [Thoughts on Vibe Coding as a Developer #vibecoding](https://www.youtube.com/shorts/y1LV7hZjePo)
 <!-- YOUTUBE:END --> 
 
 ➡️ [View All](https://youtube.com/@JaydanUrwin) 
