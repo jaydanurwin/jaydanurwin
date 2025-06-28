@@ -10,11 +10,11 @@ I'm the founder of [Treefarm Studio](https://treefarm.studio), a design and deve
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Rejected by Google ❌](https://www.youtube.com/shorts/uFpe_XEEY5k)
 - [Like watching paint dry sometimes…](https://www.youtube.com/shorts/iPWgPqb_Nu8)
 - [One of the most underrated AI tools](https://www.youtube.com/shorts/D9cKKd8lCbs)
 - [Some Good News on a Monday](https://www.youtube.com/shorts/rCokwtl7mlk)
 - [The Smartphone Zombie Apocalypse 🧟‍♂️](https://www.youtube.com/shorts/dcAVzuDV4Bo)
-- [Finally AI video from Midjourney 🎥](https://www.youtube.com/shorts/-n3vc6uWIv4)
 <!-- YOUTUBE:END --> 
 
 ➡️ [View All](https://youtube.com/@JaydanUrwin) 
