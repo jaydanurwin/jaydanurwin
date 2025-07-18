@@ -10,11 +10,11 @@ I'm the founder of [Treefarm Studio](https://treefarm.studio), a design and deve
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [Make a Custom Contact Form with Formspark and Uncursor](https://www.youtube.com/watch?v=4zoDQgKNNKY)
 - [So I built an AI Vibe Coding app... 👀](https://www.youtube.com/watch?v=Q7P3EdA7bAI)
 - [Rejected by Google ❌](https://www.youtube.com/shorts/uFpe_XEEY5k)
 - [Like watching paint dry sometimes…](https://www.youtube.com/shorts/iPWgPqb_Nu8)
 - [One of the most underrated AI tools](https://www.youtube.com/shorts/D9cKKd8lCbs)
-- [Some Good News on a Monday](https://www.youtube.com/shorts/rCokwtl7mlk)
 <!-- YOUTUBE:END --> 
 
 ➡️ [View All](https://youtube.com/@JaydanUrwin) 
