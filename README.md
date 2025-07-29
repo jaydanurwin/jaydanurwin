@@ -10,7 +10,7 @@ I'm the founder of [Treefarm Studio](https://treefarm.studio), a design and deve
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
-- [Vibe Coding a an AI App with Claude Code From Scratch](https://www.youtube.com/watch?v=MDQ1xglcpws)
+- [Vibe Coding an AI App with Claude Code From Scratch](https://www.youtube.com/watch?v=MDQ1xglcpws)
 - [11 Free AI Image and SEO Tools](https://www.youtube.com/watch?v=ISwfxTHBZUE)
 - [Build a Link Tree Website in Seconds with AI](https://www.youtube.com/watch?v=lEto3GuqTFw)
 - [Make a Custom Contact Form with Formspark and Uncursor](https://www.youtube.com/watch?v=4zoDQgKNNKY)
