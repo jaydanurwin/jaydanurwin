@@ -10,7 +10,7 @@ I'm the founder of [Treefarm Studio](https://treefarm.studio), a design and deve
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
-- [Building An AI Voice Transcription App](https://www.youtube.com/watch?v=MzFz_B2duCs)
+- [Vibe Coding An AI Voice Transcription App](https://www.youtube.com/watch?v=MzFz_B2duCs)
 - [Vibe Coding an AI App with Claude Code From Scratch](https://www.youtube.com/watch?v=MDQ1xglcpws)
 - [11 Free AI Image and SEO Tools](https://www.youtube.com/watch?v=ISwfxTHBZUE)
 - [Build a Link Tree Website in Seconds with AI](https://www.youtube.com/watch?v=lEto3GuqTFw)
