@@ -10,11 +10,11 @@ I'm the founder of [Treefarm Studio](https://treefarm.studio), a design and deve
 
 ### 📺 Latest YouTube Videos 
 <!-- YOUTUBE:START -->
+- [This app has replaced all of my coding agent apps](https://www.youtube.com/watch?v=s3Vqavk6jSA)
 - [A Quick Update on the Future of Sapling](https://www.youtube.com/watch?v=82ux_K5JoEU)
 - [Build a Voice Agent with the Gemini Live API](https://www.youtube.com/watch?v=a0xOa4m_7Y4)
 - [Running Claude Code &amp; Gemini CLI in my...browser??](https://www.youtube.com/watch?v=VPmxJtkV5K8)
 - [I made a custom Trello for Claude Code, Codex, and CLI Agents](https://www.youtube.com/watch?v=aT04DvIiovI)
-- [Building a Template Directory with Sanity and Claude Code](https://www.youtube.com/watch?v=Vyq6AeHCZBY)
 <!-- YOUTUBE:END --> 
 
 ➡️ [View All](https://youtube.com/@JaydanUrwin) 
